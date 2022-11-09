@@ -50,7 +50,7 @@ body {
     transition-timing-function: cubic-bezier(0.1, 2.7, 0.58, 1);
   }
 
-.hour-hand{
+  .hour-hand{
     width: 33%;
     right: 50%;
   }
@@ -67,11 +67,12 @@ body {
   .center{
     position: absolute;
     width: 30px;
-    height: 30px;
+    height: 28px;
     border-radius: 50%;
     background: #000;
     top: 47%;
-    right: 43%;
+    right: 45%;
     z-index: 100;
   }
+
 
