@@ -1,5 +1,5 @@
 # Day 2-
 Day 2 to challenge JavaScript 30 <br>
-in https://machado2day-js.netlify.app/ 
+in https://machadoa.github.io/Day-2/
 
 Adaptado no estilo. Diminuí os tamanhos dos ponteiros.
